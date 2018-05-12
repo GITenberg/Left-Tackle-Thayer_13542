@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: This is a reprint of a classic children's book about football adventures.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13542#Left-Tackle-Thayer
 gutenberg_issued: '2004-09-27'
 gutenberg_type: Text
 identifiers:
